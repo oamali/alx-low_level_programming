@@ -1,14 +1,10 @@
 #include <stdio.h>
-
-/**
+/*
 *
-* main - Entry point
-*
-* Description - 'This program prints using printf to print a string of text'
+* main - Entry point to print a line of text
 *
 * Return: Always 0 (Success)
 */
-
 int main(void)
 
 {
